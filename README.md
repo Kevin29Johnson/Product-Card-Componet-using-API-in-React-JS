@@ -1,4 +1,4 @@
-# Product-Card-Componet-using- data from an API-in-React-JS
+# Product-Card-Componet-using-data-from-an-API-in-React-JS
 product card in React JS using data from an  API
 
 # Initial
